@@ -1,12 +1,6 @@
-# satendra_kumar
-![logo]("C:\Users\satye\Downloads\ChatGPT Image Jul 1, 2025, 04_07_08 PM.png")
-
+![logo=( )
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
-<p align="left"> <img src="C:\Users\satye\Downloads\ChatGPT Image Jul 1, 2025, 04_07_08 PM.png" alt="Satendra-kumar" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=satendrajavaj2ee&label=Profile%20views&color=0e75b6&style=flat" alt="satendrajavaj2ee" /> </p>
 
