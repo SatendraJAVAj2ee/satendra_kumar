@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/c3701af5-6344-4371-a9ac-22a75a2370d0)
 
 <h1 align="center">Hi 👋, I'm Satendra Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
